@@ -1,0 +1,2 @@
+# NEON-Aerial-Imaging-Dataset-Analysis-and-Feature-Extraction
+Bu proje, PLOS Computational Biology dergisinde yayınlanan NEON Havadan Görüntüleme Veri Seti'ni kullanarak çok-modlu (RGB, LiDAR, Hipespektral) uzaktan algılama verilerinin entegrasyonu, görselleştirilmesi ve analizini içerir. Projenin ana odağı, hiperspektral veriden ağaçlara ait anlamlı spektral ve sayısal özelliklerin çıkarılmasıdır.
